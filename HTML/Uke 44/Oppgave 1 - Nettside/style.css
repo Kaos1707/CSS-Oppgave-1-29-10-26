@@ -1,0 +1,95 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+    margin-bottom: 100px;
+    height: 100%;
+    width: 100%;
+}
+
+h1{
+    align-self: center;
+}
+
+.section{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px;
+}
+
+.sectionsist{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 150px;
+}
+
+.maintipsection{
+    display: flex;
+    flex-direction: column;
+    background-color: wheat;
+    outline: 5px solid khaki;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.sectionalt{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+
+.bilde{
+    width: 150px;
+    height: auto;
+    outline: 5px solid yellowgreen;
+    background-color: lightgreen;
+}
+
+.bildealt{
+    width: 150px;
+    height: auto;
+    outline: 5px dashed black;
+    background-color: wheat;
+}
+
+.bildestjerne{
+    width: 150px;
+    height: auto;
+}
+
+
+.paragraph{
+    padding: 10px;
+    max-width: 500px;
+    max-height: 150px;
+    background-color: navajowhite;
+    outline: 5px solid orange;
+}
+
+.paragraphsist{
+    padding: 10px;
+    max-width: 500px;
+    max-height: 150px;
+    background-color: navajowhite;
+    outline: 5px solid orange;
+    align-self: center;
+}
+
+.tip{
+    padding: 10px;
+    max-width: 200px;
+    max-height: 150px;
+    background-color: lightcyan;
+    outline: 5px solid lightblue;
+}
+
+.paragraphalt{
+    padding: 10px;
+    max-width: 250px;
+    max-height: 1250x;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: navajowhite;
+    outline: 5px solid orange;
+}
+
